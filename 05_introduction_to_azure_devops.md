@@ -11,7 +11,6 @@ Azure DevOps provides services for software development teams to plan work, coll
 By the end of this lesson, you will be able to:
 
 1. Understand the core concept and purpose of Azure DevOps.
-2. Differentiate between Azure DevOps Services and Azure DevOps Server.
 3. Identify the key benefits of using Azure DevOps for software development and delivery.
 4. Explore and explain the features and tools offered by Azure DevOps.
 
